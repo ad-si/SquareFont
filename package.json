@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "svgscript": "^0.9.0",
+    "typescript": "^5.4.2"
+  }
+}
